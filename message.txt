@@ -1,0 +1,2 @@
+获取位置查询信息安卓开发的资料地址：
+http://developer.baidu.com/map/wiki/index.php?title=android-locsdk/guide/v4-2
